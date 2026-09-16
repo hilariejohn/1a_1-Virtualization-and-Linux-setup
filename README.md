@@ -1,6 +1,4 @@
 # 1a-1 Virtualization and Linux setup
-Reflection Questions
-
 - What are the advantages of using virtual machines for testing and development?
 
 Using virtual machines for testing and development makes it easy to experiment with new software without breaking the main computer. If something goes wrong or a file gets corrupted inside the VM, the host system stays completely safe. The snapshot feature is really useful because it lets you save a working state of the system and restore it instantly if a command or program breaks everything. VMs also let you run different operating systems at the same time on one laptop, which makes testing software across platforms fast and convenient.
